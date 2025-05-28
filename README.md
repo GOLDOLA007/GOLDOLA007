@@ -1,8 +1,8 @@
 <h1 align="center">Hello There!</h1>
 
-- I'm a 17-year-old student at the Technical College of Limeira – UNICAMP.
-- Passionate about Backend development, but I also enjoy working on Frontend projects.
-- Currently exploring embedded systems and hardware integration.
+- 👋 I'm a 17-year-old student at the Technical College of Limeira – UNICAMP.
+- 💻 Passionate about backend development, with a growing interest in frontend technologies.
+- 🛠️ Currently exploring embedded systems and hardware integration.
 
 ## Languages
 
