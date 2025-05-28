@@ -1,12 +1,8 @@
 <h1 align="center">Hello There!</h1>
 
----
-
 - 👨‍🎓 I'm a 17-year-old student at the Technical College of Limeira – UNICAMP.
 - 💻 Passionate about Backend development, but I also enjoy working on Frontend projects.
 - ⚙️ Currently exploring embedded systems and hardware integration.
-
----
 
 ## Languages
 
@@ -21,9 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
 </p>
-
-
----
 
 ## Tools
 
@@ -40,8 +33,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" alt="Power BI"/>
 </p>
 
----
-
 ## Social Media
 
 <p>
@@ -55,8 +46,6 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
-
----
 
 ## Stats
 
