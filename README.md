@@ -4,13 +4,6 @@
 - Passionate about Backend development, but I also enjoy working on Frontend projects.
 - Currently exploring embedded systems and hardware integration.
 
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GOLDOLA&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOLDOLA&layout=compact&theme=tokyonight" height="170">
-</p>
-
 ## Languages
 
 <p>
@@ -38,6 +31,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" alt="Windows"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" alt="Power BI"/>
+</p>
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GOLDOLA&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOLDOLA&layout=compact&theme=tokyonight" height="170">
 </p>
 
 ## Social Media
