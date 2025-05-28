@@ -4,6 +4,13 @@
 - Passionate about Backend development, but I also enjoy working on Frontend projects.
 - Currently exploring embedded systems and hardware integration.
 
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GOLDOLA&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOLDOLA&layout=compact&theme=tokyonight" height="170">
+</p>
+
 ## Languages
 
 <p>
@@ -47,9 +54,4 @@
   </a>
 </p>
 
-## Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GOLDOLA&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOLDOLA&layout=compact&theme=tokyonight" height="170">
-</p>
