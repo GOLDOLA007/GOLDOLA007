@@ -4,8 +4,6 @@
 - 💻 Passionate about Backend development, but I also enjoy working on Frontend projects.
 - ⚙️ Currently exploring embedded systems and hardware integration.
 
----
-
 ## Languages
 
 <p>
