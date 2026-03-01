@@ -1,6 +1,6 @@
 <h1 align="center">Hello There!</h1>
 
-Backend-focused developer studying PHP, building CLI tools and APIs, with parallel projects in Java and embedded systems (Arduino/C++).
+Backend-focused developer studying PHP, building CLI tools and APIs, with parallel projects in Java and embedded systems projects (Arduino/C++).
 
 ## Languages
 
