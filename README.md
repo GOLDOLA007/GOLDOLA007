@@ -21,12 +21,6 @@ Backend-focused developer studying PHP, building CLI tools and APIs, with parall
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman"/>
   </p>
 
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GOLDOLA&show_icons=true&theme=tokyonight" height="170">
-</p>
-
 ## Social Media
 
 <p>
