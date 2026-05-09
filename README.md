@@ -1,13 +1,14 @@
 <h1 align="center">Hello There, I'm Kauã! 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer in training</strong> | Java & Spring Boot Specialist | React & TypeScript Explorer
+  <strong>Full Stack Developer</strong> | Java & Spring Boot | React & TypeScript 
 </p>
 
 ---
 
 ### 🚀 About Me
-Backend-focused developer transitionining to Full Stack. Currently building robust APIs with **Spring Boot** and crafting modern interfaces with **React**. I also have a solid background in PHP, CLI tools, and hardware projects with Arduino/C++.
+Full Stack Developer focused on building scalable enterprise solutions. 
+Currently specialized in developing robust REST APIs with **Java & Spring Boot** integrated with dynamic, high-performance frontends using **React & TypeScript**. 
 
 ---
 
@@ -17,9 +18,8 @@ Backend-focused developer transitionining to Full Stack. Currently building robu
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
 </p>
 
 #### **Frontend & Tools**
@@ -29,7 +29,6 @@ Backend-focused developer transitionining to Full Stack. Currently building robu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" alt="Arduino"/>
 </p>
 
 ---
