@@ -47,5 +47,3 @@ Currently specialized in developing robust REST APIs with **Java & Spring Boot**
   </a>
 </p>
 
----
-<p align="center"><i>"Building scalable solutions from hardware to the web."</i></p>
