@@ -1,28 +1,40 @@
-<h1 align="center">Hello There!</h1>
+<h1 align="center">Hello There, I'm Kauã! 👋</h1>
 
-Backend-focused developer studying PHP, building CLI tools and APIs, with parallel projects in Java and embedded systems projects (Arduino/C++).
+<p align="center">
+  <strong>Full Stack Developer in training</strong> | Java & Spring Boot Specialist | React & TypeScript Explorer
+</p>
 
-## Languages
+---
 
+### 🚀 About Me
+Backend-focused developer transitionining to Full Stack. Currently building robust APIs with **Spring Boot** and crafting modern interfaces with **React**. I also have a solid background in PHP, CLI tools, and hardware projects with Arduino/C++.
+
+---
+
+### 🛠 Languages & Technologies
+
+#### **Backend & Systems**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
-  </p>
-
-## Tools
-
-<p>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="vscode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" alt="Arduino"/>
+</p>
+
+#### **Frontend & Tools**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman"/>
-  </p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" alt="Arduino"/>
+</p>
 
-## Social Media
+---
 
+### 📫 Connect with me
 <p>
   <a href="https://www.linkedin.com/in/kauã-oliveira-435971351/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -35,4 +47,5 @@ Backend-focused developer studying PHP, building CLI tools and APIs, with parall
   </a>
 </p>
 
-
+---
+<p align="center"><i>"Building scalable solutions from hardware to the web."</i></p>
