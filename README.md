@@ -38,6 +38,10 @@ Currently specialized in developing robust REST APIs with **Java & Spring Boot**
 
 ---
 
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GOLDOLA007&theme=dark" />
+
+---
+
 ### 📫 Connect with me
 <p>
   <a href="https://www.linkedin.com/in/kauã-oliveira-435971351/" target="_blank">
