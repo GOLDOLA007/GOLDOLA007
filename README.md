@@ -16,14 +16,14 @@ Currently working with **Java & Spring Boot** for backend development and **Reac
 
 ### 📌 Current Projects
 
-🛒 **SubSpace**  
+-**SubSpace**  
 Membership & subscription platform using **React, TypeScript, Java, Spring Boot**, and payment integration.
 
-👥 **User Management API**  
+-**User Management API**  
 REST API with CRUD operations, secure password handling, authentication, and scalable architecture principles.
 
-🏋️ **JYMSON**  
-Fitness platform focused on frontend improvements, backend integration, and cleaner application architecture.
+-**RFIND**  
+Business management and employee tracking system integrated with Arduino. Built with **Spring Boot 3, MySQL, and Java Swing**. Includes **PDF report generation**.
 
 ---
 
