@@ -66,11 +66,6 @@ Business management and employee tracking system integrated with Arduino using *
 
 ---
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GOLDOLA007&theme=dark" />  
-
-
----
-
 ### 📫 Connect with me
 
 <p>
