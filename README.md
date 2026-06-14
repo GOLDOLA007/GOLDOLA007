@@ -25,7 +25,7 @@ Business management and employee tracking system integrated with Arduino using *
 ---
 ### 🦾 Completed projects
 
-- **User Management API**  
+- **[User Management API](https://github.com/GOLDOLA007/user_api)**  
  REST API with authentication, secure password encryption and CRUD operations following scalable architecture principles.
 
 ---
