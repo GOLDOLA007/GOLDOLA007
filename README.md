@@ -23,7 +23,7 @@ Currently working with **Java & Spring Boot** for backend development and **Reac
 Business management and employee tracking system integrated with Arduino using **Spring Boot**, **MySQL** and **Java Swing**, including **PDF report generation**.
 
 ---
-### Projects Finished
+### 🦾 Completed projects
 
 - **User Management API**  
  REST API with authentication, secure password encryption and CRUD operations following scalable architecture principles.
