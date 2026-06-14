@@ -19,11 +19,14 @@ Currently working with **Java & Spring Boot** for backend development and **Reac
 - **SubSpace**  
  Membership platform with subscription plans and payment integration using **React**, **TypeScript**, **Java** and **Spring Boot**.
 
-- **User Management API**  
- REST API with authentication, secure password encryption and CRUD operations following scalable architecture principles.
-
 - **RFIND**  
 Business management and employee tracking system integrated with Arduino using **Spring Boot**, **MySQL** and **Java Swing**, including **PDF report generation**.
+
+---
+### Projects Finished
+
+- **User Management API**  
+ REST API with authentication, secure password encryption and CRUD operations following scalable architecture principles.
 
 ---
 
