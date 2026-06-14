@@ -2,9 +2,9 @@
 
 ### 🚀 About Me
 
-Full Stack Developer focused on building scalable applications and continuously improving software architecture skills.
+Backend Developer focused on building scalable applications and continuously improving software architecture skills.
 
-Currently working with **Java & Spring Boot** for backend development and **React & TypeScript** for modern frontend applications. Interested in APIs, system design, and building real-world solutions.
+Currently working with **Java & Spring Boot** for backend development. Interested in APIs, system design, and building real-world solutions.
 
 ---
 
