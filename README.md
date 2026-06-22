@@ -12,6 +12,7 @@ Currently working with **Java & Spring Boot** for backend development. Intereste
 
 - **[User Management API](https://github.com/GOLDOLA007/user_api)**  
  REST API with authentication, secure password encryption and CRUD operations following scalable architecture principles.
+- **[User API Frontend](https://github.com/GOLDOLA007/user-api-frontend)** Static web client (pure HTML, CSS and JS) integrated with the User Management API. Developed specifically for testing and validating authentication flows, CORS, and cookie-based security in a web environment using `HttpOnly`.
 
 ---
 
