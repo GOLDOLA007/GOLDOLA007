@@ -9,11 +9,6 @@ Currently working with **Java & Spring Boot** for backend development. Intereste
 ---
 
 ### 📌 Current Projects
-- **[RFIND](https://github.com/GOLDOLA007/RFIND-)**  
-Business management and employee tracking system integrated with Arduino using **Spring Boot**, **MySQL** and **Java Swing**, including **PDF report generation**.
-
----
-### 🦾 Completed projects
 
 - **[User Management API](https://github.com/GOLDOLA007/user_api)**  
  REST API with authentication, secure password encryption and CRUD operations following scalable architecture principles.
