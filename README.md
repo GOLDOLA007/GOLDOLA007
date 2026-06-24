@@ -30,12 +30,12 @@ Currently working with **Java & Spring Boot** for backend development. Intereste
       <table border="1" style="border-collapse: collapse; width: 100%; border: 1px solid #d0d7de; border-radius: 6px; background-color: #f6f8fa;">
         <tr>
           <th style="padding: 12px; text-align: left; background-color: #f6f8fa; border-bottom: 1px solid #d0d7de;">
-            <a href="https://github.com/GOLDOLA007/user_api_frontend" style="text-decoration: none; color: #0969da; font-size: 14px;">User API Frontend</a>
+            <a href="https://github.com/GOLDOLA007/RFIND-" style="text-decoration: none; color: #0969da; font-size: 14px;">RFIND</a>
           </th>
         </tr>
         <tr>
           <td style="padding: 12px; font-size: 12px; color: #24292f; line-height: 1.4; border: none;">
-            Vanilla JS client integrated with the User API. <br>Built to validate authentication flows, CORS, <br>and HttpOnly cookie security.
+            Business management and employee tracking<br> system built with Spring Boot and integrated<br> with Arduino.
           </td>
         </tr>
       </table>
@@ -46,17 +46,30 @@ Currently working with **Java & Spring Boot** for backend development. Intereste
       <table border="1" style="border-collapse: collapse; width: 100%; border: 1px solid #d0d7de; border-radius: 6px; background-color: #f6f8fa;">
         <tr>
           <th style="padding: 12px; text-align: left; background-color: #f6f8fa; border-bottom: 1px solid #d0d7de;">
+            <a href="https://github.com/GOLDOLA007/user_api_frontend" style="text-decoration: none; color: #0969da; font-size: 14px;">User API - Frontend</a>
+          </th>
+        </tr>
+        <tr>
+          <td style="padding: 12px; font-size: 12px; color: #24292f; line-height: 1.4; border: none;">
+            Vanilla JS client integrated with the User API. <br>Built to validate authentication flows, CORS, <br>and HttpOnly cookie security.
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td style="width: 50%; padding-left: 15px; padding-bottom: 15px; vertical-align: top; border: none !important;">
+      <table border="1" style="border-collapse: collapse; width: 100%; border: 1px solid #d0d7de; border-radius: 6px; background-color: #f6f8fa;">
+        <tr>
+          <th style="padding: 12px; text-align: left; background-color: #f6f8fa; border-bottom: 1px solid #d0d7de;">
             <a href="https://github.com/GOLDOLA007/subspace" style="text-decoration: none; color: #0969da; font-size: 14px;">SubSpace</a>
           </th>
         </tr>
         <tr>
           <td style="padding: 12px; font-size: 12px; color: #24292f; line-height: 1.4; border: none;">
-            A responsive landing page for a <br>membership and subscription platform,built<br> using React and TypeScript.
+            A responsive landing page for a membership<br> and subscription platform, built using React <br>and TypeScript.
           </td>
         </tr>
       </table>
     </td>
-    <td style="width: 50%; border: none !important;"></td>
   </tr>
 </table>
 
