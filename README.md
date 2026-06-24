@@ -10,10 +10,55 @@ Currently working with **Java & Spring Boot** for backend development. Intereste
 
 ### 📌 Current Projects
 
-- **[User API](https://github.com/GOLDOLA007/user_api)**  
- REST API with authentication, secure password encryption and CRUD operations following scalable architecture principles.
-- **[User API Frontend](https://github.com/GOLDOLA007/user_api_frontend)** Static web client (pure HTML, CSS and JS) integrated with the User Management API. Developed specifically for testing and validating authentication flows, CORS, and cookie-based security in a web environment using `HttpOnly`.
-- **[SubSpace](https://github.com/GOLDOLA007/subspace)** A modern, highly responsive Membership & Subscription Platform landing page built with React and TypeScript.
+<table border="0" style="width: 100%; border-collapse: collapse; border: none !important; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; padding-right: 15px; padding-bottom: 15px; vertical-align: top; border: none !important;">
+      <table border="1" style="border-collapse: collapse; width: 100%; border: 1px solid #d0d7de; border-radius: 6px; background-color: #f6f8fa;">
+        <tr>
+          <th style="padding: 12px; text-align: left; background-color: #f6f8fa; border-bottom: 1px solid #d0d7de;">
+            <a href="https://github.com/GOLDOLA007/user_api" style="text-decoration: none; color: #0969da; font-size: 14px;">User API</a>
+          </th>
+        </tr>
+        <tr>
+          <td style="padding: 12px; font-size: 12px; color: #24292f; line-height: 1.4; border: none;">
+            REST API focused on scalable architecture. <br>Features authentication, secure password <br>encryption, and complete CRUD operations.
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td style="width: 50%; padding-left: 15px; padding-bottom: 15px; vertical-align: top; border: none !important;">
+      <table border="1" style="border-collapse: collapse; width: 100%; border: 1px solid #d0d7de; border-radius: 6px; background-color: #f6f8fa;">
+        <tr>
+          <th style="padding: 12px; text-align: left; background-color: #f6f8fa; border-bottom: 1px solid #d0d7de;">
+            <a href="https://github.com/GOLDOLA007/user_api_frontend" style="text-decoration: none; color: #0969da; font-size: 14px;">User API Frontend</a>
+          </th>
+        </tr>
+        <tr>
+          <td style="padding: 12px; font-size: 12px; color: #24292f; line-height: 1.4; border: none;">
+            Vanilla JS client integrated with the User API. <br>Built to validate authentication flows, CORS, <br>and HttpOnly cookie security.
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; padding-right: 15px; vertical-align: top; border: none !important;">
+      <table border="1" style="border-collapse: collapse; width: 100%; border: 1px solid #d0d7de; border-radius: 6px; background-color: #f6f8fa;">
+        <tr>
+          <th style="padding: 12px; text-align: left; background-color: #f6f8fa; border-bottom: 1px solid #d0d7de;">
+            <a href="https://github.com/GOLDOLA007/subspace" style="text-decoration: none; color: #0969da; font-size: 14px;">SubSpace</a>
+          </th>
+        </tr>
+        <tr>
+          <td style="padding: 12px; font-size: 12px; color: #24292f; line-height: 1.4; border: none;">
+            A responsive landing page for a <br>membership and subscription platform,built<br> using React and TypeScript.
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td style="width: 50%; border: none !important;"></td>
+  </tr>
+</table>
 
 ---
 
