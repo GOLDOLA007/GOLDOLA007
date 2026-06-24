@@ -8,9 +8,9 @@ Currently working with **Java & Spring Boot** for backend development. Intereste
 
 ---
 
-### 📌 Current Projects
+<h3 align="center">📌 Current Projects</h3>
 
-<table border="0" style="width: 100%; border-collapse: collapse; border: none !important; table-layout: fixed;">
+<table align="center" border="0" style="width: 100%; border-collapse: collapse; border: none !important; table-layout: fixed;">
   <tr>
     <td style="width: 50%; padding-right: 15px; padding-bottom: 15px; vertical-align: top; border: none !important;">
       <table border="1" style="border-collapse: collapse; width: 100%; border: 1px solid #d0d7de; border-radius: 6px; background-color: #f6f8fa;">
@@ -75,7 +75,7 @@ Currently working with **Java & Spring Boot** for backend development. Intereste
 
 ---
 
-### 💻 Tech Stack
+<h3 align="center">💻 Tech Stack</h3>
 
 <div align ="center">
      <table>
