@@ -13,7 +13,7 @@ Currently working with **Java & Spring Boot** for backend development. Intereste
 - **[User API](https://github.com/GOLDOLA007/user_api)**  
  REST API with authentication, secure password encryption and CRUD operations following scalable architecture principles.
 - **[User API Frontend](https://github.com/GOLDOLA007/user_api_frontend)** Static web client (pure HTML, CSS and JS) integrated with the User Management API. Developed specifically for testing and validating authentication flows, CORS, and cookie-based security in a web environment using `HttpOnly`.
-- **[SubSpace] (https://github.com/GOLDOLA007/subspace)** A modern, highly responsive Membership & Subscription Platform landing page built with React and TypeScript.
+- **[SubSpace](https://github.com/GOLDOLA007/subspace)** A modern, highly responsive Membership & Subscription Platform landing page built with React and TypeScript.
 
 ---
 
