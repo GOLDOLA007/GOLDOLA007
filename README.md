@@ -103,8 +103,8 @@ Currently working with <b>Java & Spring Boot</b> <br>for backend development. In
 </div>
 
 <p align="center">
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=GOLDOLA007&show_icons=true&theme=dark" />
-  <img height="180em" width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=GOLDOLA007&theme=dark" />
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=GOLDOLA007&show_icons=true&theme=dark" />
+  <img height="180em" width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=GOLDOLA007&theme=dark" />
 </p>
 
 <h2 align="center">🌐 Socials</h2>
