@@ -102,7 +102,7 @@ Currently working with <b>Java & Spring Boot</b> <br>for backend development. In
      </table>
 </div>
 
-<p align="center">
+<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GOLDOLA007&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GOLDOLA007&theme=dark" />
 </p>
