@@ -113,9 +113,9 @@ Currently working with <b>Java & Spring Boot</b> <br>for backend development. In
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kauã-oliveira-435971351/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img width="90em" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kauatbt1@gmail.com">
-     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+     <img width="85em" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </a>
 </p>
