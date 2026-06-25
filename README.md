@@ -1,14 +1,10 @@
 <h1 align="center">Hi, I'm Kauã 👋</h1>
 
-### 🚀 About Me
+<p align="center">Backend Developer focused on building sustainable applications.
+Currently working with <b>Java & Spring Boot</b> <br>for backend development. Interested in APIs, system design, and building sustentable solutions.
+</p>
 
-Backend Developer focused on building scalable applications and continuously improving software architecture skills.
-
-Currently working with **Java & Spring Boot** for backend development. Interested in APIs, system design, and building real-world solutions.
-
----
-
-<h3 align="center">📌 Current Projects</h3>
+<h2 align="center">📌 Current Projects</h2>
 
 <table align="center" border="0" style="width: 100%; border-collapse: collapse; border: none !important; table-layout: fixed;">
   <tr>
@@ -73,9 +69,7 @@ Currently working with **Java & Spring Boot** for backend development. Intereste
   </tr>
 </table>
 
----
-
-<h3 align="center">💻 Tech Stack</h3>
+<h2 align="center">💻 Tech Stack</h2>
 
 <div align ="center">
      <table>
@@ -108,15 +102,17 @@ Currently working with **Java & Spring Boot** for backend development. Intereste
      </table>
 </div>
 
----
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GOLDOLA007&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GOLDOLA007&theme=dark" />
+</p>
 
-### 🌐 Socials
+<h2 align="center">🌐 Socials</h2>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/kauã-oliveira-435971351/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:kauatbt1@gmail.com">
      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </a>
