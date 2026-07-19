@@ -47,7 +47,7 @@ Currently working with <b>Java & Spring Boot</b> <br>for backend development. In
         </tr>
         <tr>
           <td style="padding: 12px; font-size: 12px; color: #24292f; line-height: 1.4; border: none;">
-            Vanilla JS client integrated with the User API. <br>Built to validate authentication flows, CORS, <br>and HttpOnly cookie security.
+            Vanilla JS client integrated with the User API. <br>Built to validate authentication flows and CORS.
           </td>
         </tr>
       </table>
